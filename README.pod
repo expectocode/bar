@@ -2,6 +2,8 @@
 
 lemonbar - Featherweight lemon-scented bar
 
+Original xft fork by krypt-n, who appears to have lost interest, so i've picked it up.
+
 =for HTML <a href="https://travis-ci.org/LemonBoy/bar"><img src="https://travis-ci.org/LemonBoy/bar.svg?branch=master"></a>
 
 =head1 SYNOPSIS
